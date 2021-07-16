@@ -1,0 +1,18 @@
+.wrapper {
+    margin: 0x;
+    background-color: rgb(240, 238, 236);
+  }
+
+body {
+    padding: 20px;
+  }
+
+  .film-item {
+    padding: 10px;
+    border: 1px solid black;
+    margin: 15px 0px;
+  }
+
+  .bold {
+    font-weight: bold;
+  }
